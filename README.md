@@ -15,14 +15,14 @@ Data Modeling – Relationships between tables
 Business Problem
 Organizations that collect mobile usage data often struggle to identify user behavior patterns, popular device categories, and application usage trends from large datasets. Without interactive analytics, making informed business decisions becomes difficult.
 
-Goal of the Dashboard
+5. Goal of the Dashboard
 -Analyze overall mobile device usage.
 -Identify the most commonly used device brands and operating systems.
 -Understand user engagement and app usage behavior.
 -Monitor usage trends across different demographics or categories.
 -Provide an interactive dashboard for quick business insights.
 
-Dashboard Highlights
+6. Dashboard Highlights
 -Interactive Overview Dashboard
 -Device-wise Usage Analysis
 -User Behavior Analysis
@@ -32,14 +32,14 @@ Dashboard Highlights
 -Drill-down Visualizations
 -Clean and User-Friendly Interface
 
-Business Impact
+7. Business Impact
 -Helps businesses understand customer mobile usage patterns.
 -Supports data-driven marketing and product strategies.
 -Identifies popular devices and operating systems for better targeting.
 -Enables faster reporting through interactive dashboards.
 -Assists stakeholders in making informed business decisions using real-time insights.
 
-Key Insights
+8. Key Insights
 -Identifies the most popular mobile device categories.
 -Highlights user engagement trends across different devices.
 -Reveals application usage patterns and customer preferences.
